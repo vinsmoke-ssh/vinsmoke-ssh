@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Dirgantara Fajar 👋</h1>
+<h1 align="center">Hi, I'm Vinsmoke</h1>
 
 <p align="center">
   <strong>Web Developer · Problem Solver · Builder of Useful Things</strong>
@@ -15,19 +15,11 @@
   <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-2ea44f?style=for-the-badge" alt="Open to opportunities">
 </p>
 
-<!-- Optional visual: upload a looping GIF to this profile repository, then uncomment and update the path.
-<p align="center">
-  <img src="./assets/profile-loop.gif" alt="A short visual introducing my work" width="720">
-</p>
--->
-
 ---
 
 ### `whoami`
 
 I build practical web applications by starting with the problem: the people involved, the workflow they follow, and the information they need.
-
-Currently working as an **IT Support & Web Developer at KSU POSTRA**, where I develop and maintain internal applications that support day-to-day operations.
 
 - **Based in:** Bandung, West Java, Indonesia
 - **Currently exploring:** operational systems, workflow-focused product design, and productivity tools
@@ -54,17 +46,6 @@ Currently working as an **IT Support & Web Developer at KSU POSTRA**, where I de
 ![Alpine.js](https://img.shields.io/badge/Alpine.js-8BC0D0?style=flat-square&logo=alpinedotjs&logoColor=222222)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-
-### `selected.work`
-
-| Project | What it does | Status / contribution |
-| --- | --- | --- |
-| **Document Tracking System (DTS)** | Tracks physical documents from receipt through handover, with status history and photo evidence. Includes audit logs, public tracking, PWA support, and a secure preview API. | Completed and used internally · Project Owner & Full-Stack Developer · CodeIgniter 3, MySQL |
-| **PagePilot** | Explores a landing-page CMS that separates developer-defined templates from day-to-day content editing. | MVP completed; development ongoing · Product Designer & Developer |
-| **PESAT — Pesan Cepat** | Creates consistent operational messages using reusable templates, dynamic forms, and a live preview. | Local productivity tool · Solo Developer |
-| **Madodef — Markdown to PDF** | Previews Markdown and converts documents to PDF, with attention to layout and Mermaid diagram rendering. | Local productivity tool · Solo Developer |
-| **SIPETA** | Expands shortened map links in batches and extracts coordinates into spreadsheet-ready output. | Local productivity tool · Solo Developer |
-| **Menuku** | Prototypes a restaurant workflow from table-based menu access and ordering to cashier payment. | Ongoing product exploration · Product Planning & Development |
 
 I have also contributed to a company profile and admin CMS that is in production, and mentored and coordinated the staging deployment of an internal facility-reservation system.
 
